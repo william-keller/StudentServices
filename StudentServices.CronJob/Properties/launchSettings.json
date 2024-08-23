@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StudentServices.CronJob": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
